@@ -6,6 +6,7 @@ function App() {
   // create currentPage state
   const [currentPage, setCurrentPage] = useState(1);
 
+  // set number of items for every page
   const itemPerPage = 4;
 
   // get the index number of last and first item
