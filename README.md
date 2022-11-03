@@ -1,1 +1,1 @@
-React Pagination with using Material-UI Pagination
+React Pagination with using Material-UI Pagination Component
