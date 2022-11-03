@@ -8,6 +8,5 @@ export default function PaginationPage({ setCurrentPage, pages }) {
     setCurrentPage(currentPage);
   };
 
-  //* pass pages value into count
   return <Pagination count={pages} onChange={changeHandler} />;
 }
