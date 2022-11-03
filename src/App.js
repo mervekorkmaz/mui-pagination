@@ -66,9 +66,4 @@ const items = [
   { title: "8 - Lorem ipsum dolor sit amet." },
   { title: "9 - Lorem ipsum dolor sit amet." },
   { title: "10 - Lorem ipsum dolor sit amet." },
-  { title: "11 - Lorem ipsum dolor sit amet." },
-  { title: "12 - Lorem ipsum dolor sit amet." },
-  { title: "13 - Lorem ipsum dolor sit amet." },
-  { title: "14 - Lorem ipsum dolor sit amet." },
-  { title: "15 - Lorem ipsum dolor sit amet." },
 ];
